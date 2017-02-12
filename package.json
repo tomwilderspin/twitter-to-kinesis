@@ -1,0 +1,19 @@
+{
+  "name": "twitter-to-kinesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.12.0",
+    "kinesis": "^1.2.2",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {
+    "kinesalite": "^1.11.6"
+  }
+}
