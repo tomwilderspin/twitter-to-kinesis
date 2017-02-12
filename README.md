@@ -1,4 +1,4 @@
-Twiiter to Kinesis
+Twitter to Kinesis
 ------------------
 
 Pipes Twitter Streams AWS Kinesis 
